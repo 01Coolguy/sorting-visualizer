@@ -9,7 +9,7 @@ Click the picture below to play the sample video.
 * Install [Matplotlib](https://matplotlib.org/users/installing.html) via pip. However, if you have installed Anaconda before, you needn't install Matplotlib any more.
 * If you need export the animations of sorting algorithms as MP4 files, you should download an offical release of FFMpeg (there is [the link](https://ffmpeg.zeranoe.com/builds/)). Taking Windows for example, after downloading, extract it to anywhere, and add `[your_path]/ffmpeg/bin` to the environment variable `PATH` to ensure you can run the command `ffmpeg` directly in CMD.
 ## Usage
-Under the root directory of the project, run the commands like the following format to call all functions:  
+Under the root directory of the project.
 ```
 python output.py arg1 [arg2 [arg3]]  
 ```
